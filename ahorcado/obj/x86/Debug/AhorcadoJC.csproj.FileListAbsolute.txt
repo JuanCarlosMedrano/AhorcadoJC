@@ -1,0 +1,3 @@
+C:\Users\Maribel-Ciprian\Downloads\Ahorcado-master\ahorcado\obj\x86\Debug\AhorcadoJC.csprojAssemblyReference.cache
+C:\Users\Maribel-Ciprian\Downloads\Ahorcado-master\ahorcado\obj\x86\Debug\ahorcado.exe
+C:\Users\Maribel-Ciprian\Downloads\Ahorcado-master\ahorcado\obj\x86\Debug\ahorcado.pdb
